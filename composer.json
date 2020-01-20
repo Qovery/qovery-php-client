@@ -1,0 +1,28 @@
+{
+    "name": "qovery/qovery-client",
+    "description": "Client for Qovery",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Qovery",
+            "email": "rphilogene@qovery.com",
+            "homepage": "https://qovery.com"
+        },
+        {
+            "name": "Arnaud J"
+        }
+    ],
+    "require": {
+        "php": "^5.6 || ^7"
+    },
+    "require-dev": {
+        "php": "^5.6 || ^7",
+        "phpunit/phpunit": "^5"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "license": "Apache License 2.0"
+}
