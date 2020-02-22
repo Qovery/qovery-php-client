@@ -1,5 +1,7 @@
 # qovery-php-client
 
+Install: `composer require qovery/qovery-client`
+
 Get Qovery instance
 
 ```php
